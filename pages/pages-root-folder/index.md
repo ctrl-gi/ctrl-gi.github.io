@@ -42,8 +42,7 @@ header:
 </div>
 
 ## Research Overview
-The CTRL-GI lab is a research group .....
-
+The CTRL-GI lab is a research group .....building still
 The CTRL-GI lab is an interdisciplinary [team](/team/) of biologists, bioinformaticians... 
 
 If you are interested in becoming part of the team please review our [join](/join/) and open [positions](/join/positions/) pages (Do we need)
