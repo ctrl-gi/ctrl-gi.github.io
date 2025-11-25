@@ -3,7 +3,7 @@
   class: fa-brands fa-github
   title: Github repo for site.
 
-  - member_name: lakshmi
+- member_name: lakshmi
   social:
     - name: GitHub
       url: https://github.com/LakshmiAlagappan
