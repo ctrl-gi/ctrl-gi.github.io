@@ -38,7 +38,7 @@ header:
     member_name="lakshmi" 
     full_name="Lakshmi Alagappan, PhD" 
     bio="Bioinformatician with a focus on spatial transcriptomics, tumor–immune interactions, and single-cell analytics." 
-    image="/assets/img/team/lakshmi.png" 
+    image="/assets/img/team/lakshmi.jpg" 
     role="Bioinformatics Post-Doc" 
 %}
 
