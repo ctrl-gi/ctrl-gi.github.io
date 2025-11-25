@@ -2,10 +2,10 @@
 title: 'CTRL-GI'
 
 # Slogan for homepage and SEO
-slogan: 'Genomics and Informatics Innovation'
+slogan: 'Cancer Therapeutic Research Lab'
 
 # Short description for homepage & footer (max 150 chars)
-description: 'Website of the CTRL-GI lab focusing on computational genomics and integrative research.'
+description: 'Website of the CTRL-GI lab at NCCS'
 
 # Footer credits (please keep credits as a thank you!)
 credits: '<p>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on the theme <a href="http://phlow.github.io/feeling-responsive/" target="_blank">Feeling Responsive</a>. Thanks to <a href="https://griffithlab.org/" target="_blank">Griffith Lab</a>.</p>'
@@ -24,7 +24,7 @@ improve_content: https://github.com/ctrl-gi/ctrl-gi.github.io/edit/main/
 urlimg: 'https://ctrl-gi.github.io/images/'
 
 # Site logo filename (placed in assets/images or root folder as needed)
-logo: "Site_Logo4.png"
+logo: "LabLogo.png"
 
 # Gems used by Jekyll for extended functionality
 gems:
@@ -99,7 +99,7 @@ apple-touch-icon-76x76-precomposed: 'apple-touch-icon-76x76-precomposed.png'
 apple-touch-icon-72x72-precomposed: 'apple-touch-icon-72x72-precomposed.png'
 apple-touch-icon-precomposed: 'apple-touch-icon-precomposed.png'
 msapplication_tileimage: 'msapplication_tileimage.png'
-msapplication_tilecolor: '#fabb00'
+msapplication_tilecolor: '#0057B7'
 
 # Open Graph tags for better social sharing
 og_image: 'https://ctrl-gi.github.io/images/CTRL-GI-logo.png'
