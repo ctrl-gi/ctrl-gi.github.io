@@ -36,8 +36,8 @@ header:
 
 {% include team_member 
     member_name="lakshmi" 
-    full_name="Lakshmi Alagappan, PhD" 
-    bio="Bioinformatician with a focus on spatial transcriptomics, tumor–immune interactions, and single-cell analytics." 
+    full_name="Lakshmi Alagappan" 
+    bio="I am a bioinformatician with a focus on spatial transcriptomics, tumor–immune interactions, and single-cell analytics. I enjoy solving biological and medical problems with computational solutions." 
     image="/assets/img/team/lakshmi.jpg" 
     role="Bioinformatics Post-Doc" 
 %}
