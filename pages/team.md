@@ -42,6 +42,14 @@ header:
     role="Bioinformatics Post-Doc" 
 %}
 
+{% include team_member 
+    member_name="x" 
+    full_name="Full Name" 
+    bio="Bio" 
+    image="/assets/img/team/s.jpg" 
+    role="role" 
+%}
+
 ---
 
 <h2 data-magellan-destination="PhD_Students">PhD Students</h2>
