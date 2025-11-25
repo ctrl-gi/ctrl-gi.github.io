@@ -34,6 +34,14 @@ header:
 <!-- Example: -->
 {% include team_member member_name="Member1" full_name="Team Member Name" bio="..." image="/assets/img/team/member1.jpg" role="Lab Member" %}
 
+{% include team_member 
+    member_name="lakshmi" 
+    full_name="Lakshmi Alagappan, PhD" 
+    bio="Bioinformatician with a focus on spatial transcriptomics, tumor–immune interactions, and single-cell analytics." 
+    image="/assets/img/team/lakshmi.png" 
+    role="Bioinformatics Post-Doc" 
+%}
+
 ---
 
 <h2 data-magellan-destination="PhD_Students">PhD Students</h2>
