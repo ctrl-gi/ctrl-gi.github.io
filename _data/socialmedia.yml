@@ -19,25 +19,30 @@
       url: https://orcid.org/0000-0003-0582-1513
       class: fa-brands fa-orcid
       title: "ORCiD"
-
-- member_name: Zach
+      
+- member_name: hongsheng
   social:
     - name: GitHub
-      url: https://github.com/zlskidmore
+      url:  https://github.com/hquah
       class: fa-brands fa-github
       title: "GitHub Profile"
-    - name: Twitter
-      url: https://twitter.com/zlskidmore
-      class: fa-brands fa-twitter
-      title: "Professional Twitter account"
-    - name: linkedin
-      url: https://www.linkedin.com/in/zachary-skidmore-0799653a/
+
+    - name: LinkedIn
+      url:  https://www.linkedin.com/in/hong-sheng-quah-a7119523b/
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
+
     - name: orcid
-      url: https://orcid.org/0000-0003-1928-7139
+      url:  https://orcid.org/0000-0001-8430-852
       class: fa-brands fa-orcid
-      title: "ORCiD"  
+      title: "ORCiD"
+
+- member_name: rachel
+  social:
+    - name: linkedin
+      url: www.linkedin.com/in/tanzyrachel
+      class: fa-brands fa-linkedin-in
+      title: "Professional LinkedIn account"
 
 - member_name: Alex
   social:
