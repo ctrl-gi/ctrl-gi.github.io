@@ -14,6 +14,10 @@
   url: "/team/"
   side: left
 
+- title: News
+  url: "/news/"
+  side: left
+
 #- title: Join
 #  url: "/join/"
 #  side: left
