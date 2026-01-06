@@ -29,11 +29,11 @@ header:
 
 <div class="row">
   <div class="small-6 columns">
-    <img src="/assets/img/img1.png">
+    <img src="/assets/img/img1.jpeg">
     
   </div>
   <div class="small-6 columns">
-    <img src="/assets/img/img2.png">
+    <img src="/assets/img/img2.jpeg">
   </div>
 </div>
 
@@ -44,9 +44,7 @@ header:
 ## Research Overview
 The CTRL-GI lab is a research group .....building still
 
-The CTRL-GI lab is an interdisciplinary [team](/team/) of biologists, bioinformaticians... 
-
-If you are interested in becoming part of the team please review our [join](/join/) and open [positions](/join/positions/) pages (Do we need)
+The CTRL-GI lab is an interdisciplinary [team](/team/) of biologists, bioinformaticians..
 
 Our [research projects](/research/) cover a wide spectrum of head and neck cancer..spatial transcriptomics..
 
