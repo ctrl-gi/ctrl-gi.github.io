@@ -74,6 +74,14 @@ She is currently pursuing a PhD at Karolinska Institutet, Sweden, investigating 
 %}
 
 {% include team_member 
+    member_name="kanishka" 
+    full_name="Kanishka Fernando" 
+    bio="Kanishka Fernando is a Research Fellow at the National Cancer Centre Singapore (NCCS), where he develops and applies ex vivo patient-derived tumor explant platforms to enable clinically relevant evaluation of immuno-oncology drugs. He holds a Ph.D. in Biomedical Engineering from the National University of Singapore (NUS), specializing in tumor explant models that preserve key features of the tumor microenvironment and immune contexture for functional drug testing. His current research focuses on leveraging these long-term explant cultures to interrogate mechanism of action, identify response and resistance signatures, and generate patient-relevant readouts that inform “Phase 0.9” clinical trial paradigms bridging preclinical assessment with early clinical decision-making. Kanishka earned his Bachelor of Engineering with First-Class Honours in Mechanical Engineering with Management from the University of Liverpool and completed an M.Sc. in Biomaterials at the University of Manchester, graduating top of his class. Beyond academia, he has several years of industry experience in developing healthcare solutions and commercializing medical technologies." 
+    image="/assets/img/team/Kanishka.png" 
+    role="Post-Doc Research Fellow" 
+%}
+
+{% include team_member 
     member_name="lakshmi" 
     full_name="Lakshmi Alagappan" 
     bio="I am a bioinformatician with a focus on spatial transcriptomics, tumor–immune interactions, and single-cell analytics. I enjoy solving biological and medical problems with computational solutions." 
@@ -82,11 +90,35 @@ She is currently pursuing a PhD at Karolinska Institutet, Sweden, investigating 
 %}
 
 {% include team_member 
+    member_name="huisun" 
+    full_name="Leong Hui Sun" 
+    bio="A senior research officer by title and a scientific multitasker by nature, I navigate the world of cancer biology with both precision and curiosity. My research centers on the therapeutic potential of exosomal EGFR Isoform D, exploring its role as a co-drug alongside EGFR-TKIs in head and neck squamous cell carcinoma (HNSCC). In other words, I spend my days figuring out smarter ways to make targeted therapies work better—because cancer should never get too comfortable." 
+    image="/assets/img/team/HuiSun.jpeg" 
+    role="Senior Research Officer" 
+%}
+
+{% include team_member 
     member_name="hongsheng" 
     full_name="Quah Hong Sheng" 
     bio="I am a researcher focused on understanding the immunological mechanisms that shape solid tumour biology, with a continued interest in autoimmunity. My work bridges fundamental immunology with translational applications, contributing to the development of cell‑based therapies and immunotherapeutic strategies" 
     image="/assets/img/team/HongSheng.jpeg" 
     role="Senior Research Fellow (Immunology)" 
+%}
+
+{% include team_member 
+    member_name="charlotte" 
+    full_name="Ren Mengjie (Charlotte)" 
+    bio=" I am a research officer with a focus on in vivo oncology studies, particularly mouse xenograft models. I enjoy hands-on animal work, including tumor implantation, monitoring, and treatment studies, and applying different drug delivery approaches in compliance with animal ethics standards." 
+    image="/assets/img/team/RenMengjie.jpeg" 
+    role="Research Officer" 
+%}
+
+{% include team_member 
+    member_name="darren" 
+    full_name="Toh Shen Yon, Darren" 
+    bio="I am a cellular and molecular biologist with a technical foundation in biochemistry, protein science, and virology. I integrate these disciplines to address the inherent complexities of cancer biology and advance the development of novel therapeutics. My current work focuses on the development and delivery of biologics for cancer treatment, utilizing both in vitro and preclinical mouse models. I am driven by a hypothesis-led approach to solving the enduring challenges of cancer treatment and improving patient outcomes. Beyond the Bench: When I’m not pipetting, I enjoy engaging my colleagues in spirited science fiction discussions while we collectively test the limits of our caffeine tolerance. My Experimental Philosophy - 1. Idealistic: Praying for significant results. 2. Realistic: Analyzing data with a critical eye to find the true story." 
+    image="/assets/img/team/Darren.jpg" 
+    role="Postdoctoral Fellow | Lead, Cellular and Molecular Research Team" 
 %}
 
 ---
