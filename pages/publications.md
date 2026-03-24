@@ -47,9 +47,11 @@ immunity" journal="Trends Biotechnol. 2025 Dec" doi="10.1016/j.tibtech.2025.07.0
 
 {% include publication authors="Chen Y, Davidson NM, Wan YK, Yao F, Su Y, Gamaarachchi H, Sim A, Patel H, Low HM, Hendra C, Wratten L, Hakkaart C, Sawyer C, Iakovleva V, Lee PL, Xin L, Ng HEV, Loo JM, Ong X, Ng HQA, Wang J, Koh WQC, Poon SYP, Stanojevic D, Tran HD, Lim KHE, Toh SY, Ewels PA, Ng HH, **Iyer NG**, Thiery A, Chng WJ, Chen L, DasGupta R, Sikic M, Chan YS, Tan BOP, Wan Y, Tam WL, Yu Q, Khor CC, Wüstefeld T, Lezhava A, Pratanwanich PN, Love MI, Goh WSS, Ng SB, Oshlack A, Göke J" title="A systematic benchmark of Nanopore long-read RNA sequencing for transcript-level analysis in human cell lines" journal="Nat Methods. 2025 Apr" doi="10.1038/s41592-025-02623-4" pmid="40082608"%}
 
+{% include publication authors="Widjaja W, Ng I, Shannon N, **Iyer NG**" title=" Neoadjuvant Immunotherapy in Resectable HNSCC: An Updated Systematic Review and Meta-analysis" journal="Ann Surg Oncol. 2025 Apr" doi="10.1245/s10434-024-16587-w" pmid="39645552"%}
+
 {% include publication authors="Lai YT, Peh HY, Binte Abdul Kadir H, Lee CF, **Iyer NG**, Wong TH, Tay GCAS" title=" Bioelectrical-Impedance-Analysis in the Perioperative Nutritional Assessment and Prediction of Complications in Head-and-Neck Malignancies" journal="OTO Open. 2025 Jan-Mar" doi="10.1002/oto2.70046" pmid="39759946"%}
 
-{% include publication authors="Widjaja W, Ng I, Shannon N, **Iyer NG**" title=" Neoadjuvant Immunotherapy in Resectable HNSCC: An Updated Systematic Review and Meta-analysis" journal="Ann Surg Oncol. 2025 Apr" doi="10.1245/s10434-024-16587-w" pmid="39645552"%}
+{% include publication authors="NB Shannon, **NG Iyer**, MLK Chua" title="Leveraging Artificial Intelligence and Radiomics for Improved Nasopharyngeal Carcinoma Prognostication" journal="Cancer Med. 2025 Mar" doi="10.1002/cam4.70706"%}
 
 {% include publication authors="Mitriashkin A, Yap JYY, Fernando EAK, **Iyer NG**, Grenci G, Fong ELS" title="Cell confinement by micropatterning induces phenotypic changes in cancer-associated fibroblasts" journal="Acta Biomater. 2025 Jan" doi="10.1016/j.actbio.2024.12.007" pmid="39637956"%}
 
@@ -70,82 +72,293 @@ immunity" journal="Trends Biotechnol. 2025 Dec" doi="10.1016/j.tibtech.2025.07.0
 
 {% include publication authors="Ho NCW, Yap JYY, Zhao Z, Wang Y, Fernando K, Li CH, Kwang XL, Quah HS, Arcinas C, **Iyer NG**, Fong ELS" title="Bioengineered Hydrogels Recapitulate Fibroblast Heterogeneity in Cancer" journal="Adv Sci (Weinh). 2024 May" doi=" 10.1002/advs.202307129" pmid="38493497"%}
 
+{% include publication 
+authors="Adine C, Fernando K, Ho NCW, Quah HS, Ho SSW, Wu KZ, Teng KWW, Arcinas C, Li L, Ha K, Chew JWL, Wang C, Too NSH, Yeong JPS, Tan DSW, Tan IBH, Nagadia R, Chia CS, Macalinao D, Bhuvaneswari H, **Iyer NG**, Fong ELS" 
+title="Bioengineered hydrogels enhance ex vivo preservation of patient-derived tumor explants for drug evaluation" 
+journal="Biomaterials. 2024 Mar" 
+doi="10.1016/j.biomaterials.2023.122460" 
+pmid="38246018" 
+%}
 
+{% include publication 
+authors="Subramaniam N, Heller G, Clark JR, Gupta R, Goldstein D, de Almeida JR, Hosni A, Balasubramanian D, Thankappan K, Iyer S, Batstone M, **Iyer NG**, Smee RI, Chandrasekhar NH, Pillai V, Shetty V, Rangappa V, Veness M, Low TH" 
+title="Improving accuracy in nodal staging of oral cancer: Proposal of a new system" 
+journal="Surg Oncol. 2024 Feb" 
+doi="10.1016/j.suronc.2024.102033" 
+pmid="38211447" 
+%}
+
+{% include publication 
+authors="Singh M, Thankappan K, Balasubramanian D, Pillai V, Shetty V, Rangappa V, Chandrasekhar NH, Kekatpure V, Kuriakose MA, Krishnamurthy A, Mitra A, Pattatheyil A, Jain P, Iyer S, **Iyer NG**, Subramaniam N" 
+title="Contrasting clinical outcomes and socio-economic impact of young versus elderly-onset oral squamous cell carcinoma, a novel health economic analysis" 
+journal="Cancer Med. 2024 Feb" 
+doi="10.1002/cam4.6747" 
+pmid="38225902" 
+%}
+
+{% include publication 
+authors="Adine C, Fernando K, Ho NCW, Quah HS, Ho SSW, Teng KWW, Arcinas C, Li L, Ha K, Chew JWL, Wang C, Too NSH, Bhuvaneswari H, Nagadia R, Yeong JPS, **Iyer NG**, Fong ELS" 
+title="Bioengineered Hydrogels Preserve Patient-Derived Tumor Explants for Evaluating Immune Checkpoint Blockade" 
+journal="Biomaterials. 2024 Jan" 
+doi="10.1016/j.biomaterials.2023.122460" 
+pmid="" 
+%}
+
+{% include publication 
+authors="Tan JSH, Tay TKY, Ong EHW, Fehlings M, Tan DS, Sukma NB, Chen EX, Sng JH, Yip CSP, Lim KH, Lim DW, **Iyer NG**, Hwang JSG, Chua MLK, Ang MK" 
+title="Combinatorial Hypofractionated Radiotherapy and Pembrolizumab in Anaplastic Thyroid Cancer" 
+journal="Eur Thyroid J. 2024 Jan" 
+doi="10.1530/ETJ-23-0144" 
+pmid="38181007" 
+%}
+
+{% include publication 
+authors="Singh M, Thankappan K, Balasubramanian D, Pillai V, Shetty V, Bhushan VR, Chandrashekar N, Kekatpure V, Kuriakose MA, Krishnamurthy A, Mitra A, Arun P, Jain P, Iyer S, **Iyer NG**, Subramanian N" 
+title="Young onset oral cancer: a significant socio-economic health burden" 
+journal="Cancer Med" 
+doi="10.1002/cam4.6747" 
+%}
 
 <h2 data-magellan-destination="2023">2023</h2>
 <a name="2023"></a>
 
-{% include publication authors="Gomez F, Fisk B, McMichael JF, Mosior M, Foltz JA, Skidmore ZL, Duncavage EJ, Miller CA, Abel H, Li YS, Russler-Germain DA, Krysiak K, Watkins MP, Ramirez CA, Schmidt A, Martins Rodrigues F, Trani L, Khanna A, Wagner JA, Fulton RS, Fronick CC, O'Laughlin MD, Schappe T, Cashen AF, Mehta-Shah N, Kahl BS, Walker J, Bartlett NL, Griffith M, Fehniger TA, Griffith OL" title="Ultra-Deep Sequencing Reveals the Mutational Landscape of Classical Hodgkin Lymphoma" journal="Cancer Res Commun. 2023 Nov" doi="10.1158/2767-9764.CRC-23-0140" pmid="37910143"%}
+{% include publication 
+authors="Wu KZ, Adine C, Mitriashkin A, Aw BJJ, **Iyer NG**, Fong ELS" 
+title="Making In Vitro Tumor Models Whole Again" 
+journal="Adv Healthc Mater. 2023 Jun" 
+doi="10.1002/adhm.202202279" 
+pmid="36718949" 
+%}
 
-{% include publication authors="Cannon M, Stevenson J, Kuzma K, Kiwala S, Warner JL, Griffith OL, Griffith M, Wagner AH" title="Normalization of drug and therapeutic concepts with Thera-Py" journal="JAMIA Open. 2023 Nov" doi="10.1093/jamiaopen/ooad093" pmid="37954974"%}
+{% include publication 
+authors="Lim DW, Kao HF, Suteja L, Li CH, Quah HS, Tan DS, Tan SH, Tan EH, Tan WL, Lee JN, Wee FY, Jain A, Goh BC, Chua MLK, Liao BC, Ng QS, Hong RL, Ang MK, Yeong JP, **Iyer NG**" 
+title="Clinical efficacy and biomarker analysis of dual PD-1/CTLA-4 blockade in recurrent/metastatic EBV-associated nasopharyngeal carcinoma" 
+journal="Nat Commun. 2023 May" 
+doi="10.1038/s41467-023-38407-7" 
+pmid="37188668" 
+%}
 
-{% include publication authors="Singhal K, Watkins MP, Fehniger TA, Griffith M, Griffith OL, Kahl BS, Russler-Germain DA" title="Donor-Derived Follicular Lymphoma After Kidney Transplantation: A Case Report" journal="JCO Precis Oncol. 2023 Sep" doi="10.1200/PO.23.00177" pmid="37824796"%}
+{% include publication 
+authors="Quah HS, Cao EY, Suteja L, Li CH, Leong HS, Chong FT, Gupta S, Arcinas C, Ouyang JF, Ang V, Celhar T, Zhao Y, Tay HC, Chan J, Takahashi T, Tan DSW, Biswas SK, Rackham OJL, **Iyer NG**" 
+title="Single cell analysis in head and neck cancer reveals potential immune evasion mechanisms during early metastasis" 
+journal="Nat Commun. 2023 Mar" 
+doi="10.1038/s41467-023-37379-y" 
+pmid="36973261" 
+%}
 
-{% include publication authors="Russler-Germain DA, Krysiak K, Ramirez C, Mosior M, Watkins MP, Gomez F, Skidmore ZL, Trani L, Gao F, Geyer S, Cashen AF, Mehta-Shah N, Kahl BS, Bartlett NL, Alderuccio JP, Lossos IS, Ondrejka SL, Hsi ED, Martin P, Leonard JP, Griffith M, Griffith OL, Fehniger TA" title="Mutations associated with progression in follicular lymphoma predict inferior outcomes at diagnosis: Alliance A151303" journal="Blood Adv. 2023 Sep" doi="10.1182/bloodadvances.2023010779" pmid="37493986"%}
-
-{% include publication authors="Freshour SL, Chen TH, Fisk B, Shen H, Mosior M, Skidmore ZL, Fronick C, Bolzenius JK, Griffith OL, Arora VK, Griffith M" title="Endothelial cells are a key target of IFN-g during response to combined PD-1/CTLA-4 ICB treatment in a mouse model of bladder cancer" journal="iScience. 2023 Sep" doi="10.1016/j.isci.2023.107937" pmid="37810214"%}
-
-{% include publication authors="Rodney AR, Skidmore ZL, Grenier JK, Griffith OL, Miller AD, Chu S, Ahmed F, Bryan JN, Peralta S, Warren WC" title="Genomic landscape and gene expression profiles of feline oral squamous cell carcinoma" journal="Front Vet Sci. 2023 May" doi="10.3389/fvets.2023.1079019" pmid="37266381"%}
-
-{% include publication authors="Xia H, McMichael J, Becker-Hapak M, Onyeador OC, Buchli R, McClain E, Pence P, Supabphol S, Richters MM, Basu A, Ramirez CA, Puig-Saus C, Cotto KC, Freshour SL, Hundal J, Kiwala S, Goedegebuure SP, Johanns TM, Dunn GP, Ribas A, Miller CA, Gillanders WE, Fehniger TA, Griffith OL, Griffith M" title="Computational prediction of MHC anchor locations guides neoantigen identification and prioritization" journal="Science Immunology. 2023 Apr" doi="10.1126/sciimmunol.abg2200" pmid="37027480"%}
-
-{% include publication authors="Cotto KC*, Feng YY*, Ramu A, Richters M, Freshour SL, Skidmore ZL, Xia H, McMichael JF, Kunisaki J, Campbell KM, Chen TH, Rozycki EB, Adkins D, Devarakonda S, Sankararaman S, Lin Y, Chapman WC, Maher CA, Arora V, Dunn GP, Uppaluri R, Govindan R, Griffith OL, Griffith M" title="Integrated analysis of genomic and transcriptomic data for the discovery of splice-associated variants in cancer" journal="Nature Communications. 2023 Mar" doi="10.1038/s41467-023-37266-6" pmid="36949070"%}
-
-{% include publication authors="Puig-Saus C, Sennino B, Peng S, Wang CL, Pan Z, Yuen B, Purandare B, An D, Quach BB, Nguyen D, Xia H, Jilani S, Shao K, McHugh C, Greer J, Peabody P, Nayak S, Hoover J, Said S, Jacoby K, Dalmas O, Foy SP, Conroy A, Yi MC, Shieh C, Lu W, Heeringa K, Ma Y, Chizari S, Pilling MJ, Ting M, Tunuguntla R, Sandoval S, Moot R, Hunter T, Zhao S, Saco JD, Perez-Garcilazo I, Medina E, Vega-Crespo A, Baselga-Carretero I, Abril-Rodriguez G, Cherry G, Wong DJ, Hundal J, Chmielowski B, Speiser DE, Bethune MT, Bao XR, Gros A, Griffith OL, Griffith M, Heath JR, Franzusoff A, Mandl SJ, Ribas A" title="Neoantigen-targeted CD8+ T cell responses with PD-1 blockade therapy" journal="Nature. 2023 Mar" doi="10.1038/s41586-023-05787-1" pmid="36890230"%}
-
-{% include publication authors="Barnell EK, Skidmore ZL, Newcomer KF, Chavez M, Campbell KM, Cotto KC, Spies NC, Ruzinova MB, Wang T, Abro B, Kreisel F, Parikh BA, Duncavage EJ, Frater JL, Lee Y, Hassan A, King JA, Kohnen DR, Fiala MA, Welch JS, Uy GL, Vij K, Vij R, Griffith M, Griffith OL, Wartman LD" title="Distinct clonal identities of B-ALLs arising after lenolidomide therapy for multiple myeloma" journal="Blood Advances. 2023 Jan" doi="10.1182/bloodadvances.2022007496" pmid="36251745"%}
-
-{% include publication authors="Krysiak K, Danos AM, Saliba J,  McMichael JF, Coffman AC, Kiwala S, Barnell EK, Sheta L, Grisdale CJ, Kujan L, Pema S, Lever J, Ridd S, Spies NC, Andric V, Chiorean A, Rieke DT, Clark KA, Reisle C, Venigalla AC, Evan M, Jani P, Takahashi H, Suda A, Horak P, Ritter DI, Zhou X, Ainscough BJ, Delong S, Kesserwan C, Lamping M, Shen H, Marr AR, Hoan MH, Singhal K, Khanfar M, Li BV, Lin W, Terraf P, Corson LB, Salama Y, Campbell KM, Farncombe KM, Ji J, Zhao X, Xu X, Kanagal-Shamanna R, King I, Cotto KC, Skidmore ZL, Walker JR, Zhang J, Milosavljevic A, Patel RY, Giles RH, Kim RH, Schriml LM, Mardis ER, Jones SJM, Raca Gordana, Rao S, Madhavan S, Wagner AH, Griffith M, Griffith OL" title="CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase " journal="Nucleic Acids Research. 2023 Jan" doi="10.1093/nar/gkac979" pmid="36373660"%}
+{% include publication 
+authors="Peres MA, Huihua L, Antunes JLF, Perea LME, **Iyer NG**, Peres KG" 
+title="Time trend and Age-Period-Cohort analysis of potentially HPV-related oral and pharyngeal cancer incidence in Singapore between 1968 and 2017" 
+journal="Oral Oncol. 2023 Jan" 
+doi="10.1016/j.oraloncology.2022.106272" 
+pmid="36516662" 
+%}
 
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
-{% include publication authors="Yoon CJ, Kim SY, Nam CH, Lee J, Park JW, Mun J, Park S, Lee S, Yi B, Min KI, Wiley B, Bolton KL, Lee JH, Kim E, Yoo HJ, Jun JK, Choi JS, Griffith M, Griffith OL, Ju YS" title="Estimation of intrafamilial DNA contamination in family trio genome sequencing using deviation from Mendelian inheritance" journal="Genome Research. 2022 Dec" doi="10.1101/gr.276794.122" pmid="36617634"%}
+{% include publication 
+authors="Liu WN, So WY, Harden SL, Fong SY, Wong MXY, Tan WWS, Tan SY, Ong JKL, Rajarethinam R, Liu M, Cheng JY, Suteja L, Yeong JPS, **Iyer NG**, Lim DW, Chen Q" 
+title="Successful targeting of PD-1/PD-L1 with chimeric antigen receptor-natural killer cells and nivolumab in a humanized mouse cancer model" 
+journal="Sci Adv. 2022 Nov" 
+doi="10.1126/sciadv.add1187" 
+pmid="36417514" 
+%}
 
-{% include publication authors="Barnell EK, Fisk B, Skidmore ZL, Cotto KC, Spies NC, Basu A, Anand A, Richters MM, Luo J, Fronick C, Anurag M, Fulton R, Ellis MJ, Griffith OL, Griffith M, Ademuyiwa FO" title="Personalized ctDNA micro-panels can monitor and predict clinical outcomes for patients with triple-negative breast cancer" journal="Scientific Reports. 2022 Oct" doi="10.1038/s41598-022-20928-8" pmid="36273232"%}
+{% include publication 
+authors="Sun Y, Selvarajan S, Zang Z, Liu W, Zhu Y, Zhang H, Chen W, Chen H, Li L, Cai X, Gao H, Wu Z, Zhao Y, Chen L, Teng X, Mantoo S, Lim TK, Hariraman B, Yeow S, Alkaff SMF, Lee SS, Ruan G, Zhang Q, Zhu T, Hu Y, Dong Z, Ge W, Xiao Q, Wang W, Wang G, Xiao J, He Y, Wang Z, Sun W, Qin Y, Zhu J, Zheng X, Wang L, Zheng X, Xu K, Shao Y, Zheng S, Liu K, Aebersold R, Guan H, Wu X, Luo D, Tian W, Li SZ, Kon OL, **Iyer NG**, Guo T" 
+title="Artificial intelligence defines protein-based classification of thyroid nodules" 
+journal="Cell Discov. 2022 Sep" 
+doi="10.1038/s41421-022-00442-x" 
+pmid="36068205" 
+%}
 
-{% include publication authors="Saliba J, Church AJ, Rao S, Danos A, Furtado LV, Laetsch T, Zhang L, Nardi V, Lin WH, Ritter DI, Madhavan S, Li MM, Griffith OL, Griffith M, Raca G, Roy A" title="Standardized evidence-based approach for assessment of oncogenic and clinical significance of NTRK fusions" journal="Cancer Genetics. 2022 Jun" doi="10.1016/j.cancergen.2022.03.001" pmid="35366592"%}
+{% include publication 
+authors="Linn YL, Khoo MSQ, Sultana R, **Iyer NG**, Dharmawan R" 
+title="Comparison of the use of allogenic acellular dermal matrix on rates of Frey syndrome post parotidectomy: A systematic review and meta-analysis" 
+journal="Oral Surg Oral Med Oral Pathol Oral Radiol. 2022 Jul" 
+doi="10.1016/j.oooo.2021.12.123" 
+pmid="35431179" 
+%}
 
-{% include publication authors="Krysiak K, Danos AM, Kiwala S, McMichael JF, Coffman AC, Barnell EK, Sheta L, Saliba J, Grisdale CJ, Kujan L, Pema S, Lever J, Spies NC, Chiorean A, Rieke DT, Clark KA, Jani P, Takahashi H, Horak P, Ritter DI, Zhou X, Ainscough BJ, Delong S, Lamping M, Marr AR, Li BV, Lin W, Terraf P, Salama Y, Campbell KM, Farncombe KM, Ji J, Zhao X, Xu X, Kanagal-Shamanna R, Cotto KC, Skidmore ZL, Walker JR, Zhang J, Milosavljevic A, Patel RY, Giles RH, Kim RH, Schriml LM, Mardis ER, Jones SJM, Raca Gordana, Rao S, Madhavan S, Wagner AH, Griffith M, Griffith OL" title="A community approach to the cancer-variant-interpretation bottleneck" journal="Nature Cancer. 2022 Jun" doi="10.1038/s43018-022-00379-w" pmid="35624339"%}
+{% include publication 
+authors="Kao NH, **Iyer NG**, Chua A, Nagadia RH" 
+title="Early quality of life outcomes after surgery in head and neck cancer survivors with EORTC QLQ-C30 and EORTC QLQ-HN35 in an Asian tertiary centre" 
+journal="Support Care Cancer. 2022 May" 
+doi="10.1007/s00520-022-06871-4" 
+pmid="35119518" 
+%}
 
-{% include publication authors="Skidmore ZL, Kunisaki J, Lin Y, Cotto KC, Barnell EK, Hundal J, Krysiak K, Magrini V, Trani L, Walker JR, Fulton R, Brunt EM, Miller CA, Wilson RK, Mardis ER, Griffith M, Chapman W, Griffith OL" title="Genomic and transcriptomic somatic alterations of hepatocellular carcinoma in non-cirrhotic livers" journal="Cancer Genetics. 2022 Jun" doi="10.1016/j.cancergen.2022.04.002" pmid="35568002"%}
+{% include publication 
+authors="Sun Y, Li L, Zhou Y, Ge W, Wang H, Wu R, Liu W, Chen H, Xiao Q, Cai X, Dong Z, Zhang F, Xiao J, Wang G, He Y, Gao J, Kon OL, **Iyer NG**, Guan H, Teng X, Zhu Y, Zhao Y, Guo T" 
+title="Stratification of follicular thyroid tumours using data-independent acquisition proteomics and a comprehensive thyroid tissue spectral library" 
+journal="Mol Oncol. 2022 Apr" 
+doi="10.1002/1878-0261.13198" 
+pmid="35194950" 
+%}
 
-{% include publication authors="Chiorean A, Farncombe KM, Delong S, Andric V, Ansar S, Chan C, Clark K, Danos AM, Gao Y, Giles RH, Goldenberg A, Jani P, Krysiak K, Kujan L, Macpherson S, Maher ER, McCoy LG, Salama Y, Saliba J, Sheta L, Griffith M, Griffith OL, Erdman L, Ramani A, Kim RH" title="Large scale genotype- and phenotype-driven machine learning in Von Hippel-Lindau disease" journal="Human Mutation. 2022 Apr" doi="10.1002/humu.24392" pmid="35475554"%}
+{% include publication 
+authors="Goh KY, Lau KW, Cheng TY, Tham SC, Lim CT, **Iyer NG**, Lim SB, Lim DW" 
+title="Matrisomal genes in squamous cell carcinoma of head and neck influence tumor cell motility and response to cetuximab treatment" 
+journal="Cancer Commun (Lond). 2022 Apr" 
+doi="10.1002/cac2.12279" 
+pmid="35234368" 
+%}
 
-{% include publication authors="Horak P, Griffith M, Danos AM, Pitel BA, Madhavan S, Liu X, Chow C, Williams H, Carmody L, Barrow-Laing L, Rieke D, Kreutzfeldt S, Stenzinger A, Tambrero D, Benary M, Rajagopal PS, Ida CM, Lesmana H, Satgunaseelan L, Merker JD, Tolstorukov MY, Campregher PV, Warner JL, Rao S, Natesan M, Shen H, Venstrom J, Roy S, Tao K, Kanagal-Shamanna R, Xu X, Ritter DI, Pagel K, Krysiak K, Dubuc A, Akkari YM, Li XS, Lee J, King I, Raca G, Wagner AH, Li MM, Plon SE, Kulkarni S, Griffith OL, Chakravarty D, Sonkin D" title="Standards for the classification of pathogenicity of somatic variants in cancer (oncogenicity): Joint recommendations of Clinical Genome Resource (ClinGen), Cancer Genomics Consortium (CGC), and Variant Interpretation for Cancer Consortium (VICC)" journal="Genetics in Medicine. 2022 Jan" doi="10.1016/j.gim.2022.01.001" pmid="35101336"%}
+{% include publication 
+authors="Singh M, Thankappan K, Balasubramanian D, Pillai V, Shetty V, Rangappa V, Chandrasekhar NH, Kekatpure V, Kuriakose MA, Krishnamurthy A, Mitra A, Pattatheyil A, Jain P, Iyer S, **Iyer NG**, Subramaniam N" 
+title="Incorporation of adverse features in advanced oral cancer improves precision in staging and patient prognostication" 
+journal="Head Neck. 2022 Apr" 
+doi="10.1002/hed.26990" 
+pmid="35102642" 
+%}
 
-{% include publication authors="Schaettler MO, Richters MM, Wang AZ, Skidmore ZL, Fisk B, Miller KE, Vickery TL, Kim AH, Chicoine MR, Osbun JW, Leuthardt EC, Downling JL, Zipfel GJ, Dacey RG, Lu H, Johanns TM, Griffith OL, Mardis ER, Griffith M, Dunn GP" title="Characterization of the Genomic and Immunologic Diversity of Malignant Brain Tumors through Multisector Analysis" journal="Cancer Discovery. 2022 Jan" doi="10.1158/2159-8290.CD-21-0291" pmid="34610950"%}
+{% include publication 
+authors="Teng YHF, Quah HS, Suteja L, Dias JML, Mupo A, Bashford-Rogers RJM, Vassiliou GS, Chua MLK, Tan DSW, Lim DWT, **Iyer NG**" 
+title="Analysis of T cell receptor clonotypes in tumor microenvironment identifies shared cancer-type-specific signatures" 
+journal="Cancer Immunol Immunother. 2022 Apr" 
+doi="10.1007/s00262-021-03047-7" 
+pmid="34580764" 
+%}
 
-{% include publication authors="Ward J, Berrien-Elliott MM, Gomez F, Luo J, Becker-Hapak M, Cashen AF, Wagner-Johnston ND, Maddocks K, Mosior M, Foster M, Krysiak K, Schmidt A, Skidmore ZL, Desai S, Watkins MP, Fischer A, Griffith M, Griffith OL, Fehniger TA, Bartlett NL" title="Phase I/Dose Expansion Trial of Brentuximab vedotin/Lenalidomide in Relapsed or Refractory Diffuse Large B-cell Lymphoma" journal="Blood. 2022 Nov" doi="10.1182/blood.2021011894" pmid="34780623"%}
+{% include publication 
+authors="**Iyer NG**, Subramaniam N, Piazza C" 
+title="Editorial: Next generation staging in head and neck cancers" 
+journal="Front Oncol. 2022" 
+doi="10.3389/fonc.2022.1106125" 
+pmid="36591488" 
+%}
+
+{% include publication 
+authors="Thind AS, Ashford B, Strbenac D, Mitchell J, Lee J, Mueller SA, Minaei E, Perry JR, Ch'ng S, **Iyer NG**, Clark JR, Gupta R, Ranson M" 
+title="Whole genome analysis reveals the genomic complexity in metastatic cutaneous squamous cell carcinoma" 
+journal="Front Oncol. 2022" 
+doi="10.3389/fonc.2022.919118" 
+pmid="35982973" 
+%}
+
+{% include publication 
+authors="Tu IW, Shannon NB, Thankappan K, Balasubramanian D, Pillai V, Shetty V, Rangappa V, Chandrasekhar NH, Kekatpure V, Kuriakose MA, Krishnamurthy A, Mitra A, Pattatheyil A, Jain P, Iyer S, Subramaniam N, **Iyer NG**" 
+title="Risk Stratification in Oral Cancer: A Novel Approach" 
+journal="Front Oncol. 2022" 
+doi="10.3389/fonc.2022.836803" 
+pmid="35875164" 
+%}
+
+{% include publication 
+authors="Pan DR, Juhlin E, Tran AN, Wei Q, Tang S, Bui AT, **Iyer NG**, Lee WT" 
+title="A Southeast Asian collaborative Delphi consensus on surveying risk factors for head and neck cancer screening and prevention" 
+journal="Glob Surg. 2022" 
+pmid="36561123" 
+%}
+
 
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
 
-{% include publication authors="Rockwell NC, Yang W, Warrington NM, Staller MV, Griffith M, Griffith OL, Gurnett CA, Cohen BA, Baldridge D, Rubin JB" title="Sex-and Mutation-Specific p53 Gain-of-Function Activity in Gliomagenesis" journal="Cancer Research Communications. 2021 Dec" doi="10.1158/2767-9764.CRC-21-0026" pmid="34957471"%}
+{% include publication 
+authors="Fong ELS, **Iyer NG**" 
+title="Next generation in vitro tumor models guiding cancer therapy" 
+journal="Adv Drug Deliv Rev. 2021 Dec" 
+doi="10.1016/j.addr.2021.114047" 
+pmid="34763000" 
+%}
 
-{% include publication authors="Wagner AH, Babb L, Alterovitz G, Baudis M, Brush M, Cameron DL, Cline M, Griffith M, Griffith OL, Hunt SE, Kreda D, Lee JM, Li S, Lopez J, Moyer E, Nelson T, Patel RY, Riehle K, Robinson PN, Rynearson S, Schuilenburg H, Tsukanov K, Walsh B, Konopko M, Rehm HL, Yates AD, Freimuth RR, Hart RK" title="The GA4GH Variation Representation Specification: A computational framework for variation representation and federated identification" journal="Cell Genom. 2021 Nov" doi="10.1016/j.xgen.2021.100027" pmid="35311178"%}
+{% include publication 
+authors="Chua KP, Teng YHF, Tan AC, Takano A, Alvarez JJS, Nahar R, Rohatgi N, Lai GGY, Aung ZW, Yeong JPS, Lim KH, Naeini MM, Kassam I, Jain A, Tan WL, Gogna A, Too CW, Kanesvaran R, Ng QS, Ang MK, Rajasekaran T, Anantham D, Phua GC, Tan BS, Lee YY, Wang L, Teo ASM, Khng AJ, Lim MJ, Suteja L, Toh CK, Lim WT, **Iyer NG**, Tam WL, Tan EH, Zhai W, Hillmer AM, Skanderup AJ, Tan DSW" 
+title="Integrative Profiling of T790M-Negative EGFR-Mutated NSCLC Reveals Pervasive Lineage Transition and Therapeutic Opportunities" 
+journal="Clin Cancer Res. 2021 Nov" 
+doi="10.1158/1078-0432.CCR-20-4607" 
+pmid="34261696" 
+%}
 
-{% include publication authors="Rehm HL, Page AJH, Smith L, Adams JB, Alterovitz G, Babb LJ, Barkley MP, Baudis M, Beauvais MJS, Beck T, Beckmann JS, Beltran S, Bernick D, Bernier A, Bonfield JK, Boughtwood TF, Bourque G, Bowers SR, Brookes AJ, Brudno M, Brush MH, Bujold D, Burdett T, Buske OJ, Cabili MN, Cameron DL, Carroll RJ, Casas-Silva E, Chakravarty D, Chaudhari BP, Chen SH, Cherry JM, Chung J, Cline M, Clissold HL, Cook-Deegan RM, Courtot M, Cunningham F, Cupak M, Davies RM, Denisko D, Doerr MJ, Dolman LI, Dove ES, Dursi LJ, Dyke SOM, Eddy JA, Eilbeck K, Ellrott KP, Fairley S, Fakhro KA, Firth HV, Fitzsimons MS, Fiume M, Flicek P, Fore IM, Freeberg MA, Freimuth RR, Fromont LA, Fuerth J, Gaff CL, Gan W, Ghanaim EM, Glazer D, Green RC, Griffith M, Griffith OL, Grossman RL, Groza T, Auvil JMG, Guigó R, Gupta D, Haendel MA, Hamosh A, Hansen DP, Hart RK, Hartley DM, Haussler D, Hendricks-Sturrup RM, Ho CWL, Hobb AE, Hoffman MM, Hofmann OM, Holub P, Hsu JS, Hubaux JP, Hunt SE, Husami A, Jacobsen JO, Jamuar SS, Janes EL, Jeanson F, Jené A, Johns AL, Joly Y, Jones SJM, Kanitz A, Kato K, Keane TM, Kekesi-Lafrance K, Kelleher J, Kerry G, Khor SS, Knoppers BM, Konopko MA, Kosaki K, Kuba M, Lawson J, Leinonen .." title="GA4GH: International policies and standards for data sharing across genomic research and healthcare" journal="Cell Genom. 2021 Nov" doi="10.1016/j.xgen.2021.100029" pmid="35072136"%}
+{% include publication 
+authors="Belotti Y, Lim SB, **Iyer NG**, Lim WT, Lim CT" 
+title="Prognostic Matrisomal Gene Panel and Its Association with Immune Cell Infiltration in Head and Neck Carcinomas" 
+journal="Cancers (Basel). 2021 Nov" 
+doi="10.3390/cancers13225761" 
+pmid="34830910" 
+%}
 
-{% include publication authors="James CA, Ronning P, Cullinan D, Cotto KC, Barnell EK, Campbell KM, Skidmore ZL, Sanford DE, Goedegebuure SP, Gillanders WE, Griffith OL, Hawkins WG, Griffith M" title="In Silico Epitope Prediction Analyses Highlight the Potential for Distracting Antigen Immunodominance with Allogeneic Cancer Vaccines" journal="Cancer Research Communications. 2021 Nov" doi="10.1158/2767-9764.CRC-21-0029" pmid="35611186"%}
+{% include publication 
+authors="Tang LJW, Zaseela A, Toh CCM, Adine C, Aydar AO, **Iyer NG**, Fong ELS" 
+title="Engineering stromal heterogeneity in cancer" 
+journal="Adv Drug Deliv Rev. 2021 Aug" 
+doi="10.1016/j.addr.2021.05.027" 
+pmid="34087326" 
+%}
 
-{% include publication authors="Skidmore ZL, Campbell KM, Cotto KC, Griffith M, Griffith OL" title="Exploring the Genomic Landscape of Cancer Patient Cohorts with GenVisR" journal="Curr Protoc. 2021 Sept 10" doi="10.1002/cpz1.252" pmid="34506690" %}
+{% include publication 
+authors="Too NSH, Ho NCW, Adine C, **Iyer NG**, Fong ELS" 
+title="Hot or cold: Bioengineering immune contextures into in vitro patient-derived tumor models" 
+journal="Adv Drug Deliv Rev. 2021 Aug" 
+doi="10.1016/j.addr.2021.05.001" 
+pmid="33965462" 
+%}
 
-{% include publication authors="Ademuyiwa FO, Chen I, Luo J, Rimawi MF, Hagemann IS, Fisk B, Jeffers G, Skidmore ZL, Basu A, Richters M, Ma CX, Weilbaecher K, Davis J, Suresh R, Peterson LL, Bose R, Bagegni N, Rigden CE, Frith A, Rearden TP, Hernandez-Aya LF, Roshal A, Clifton K, Opyrchal M, Akintola-Ogunremi O, Lee BH, Ferrando-Martinez S, Church SE, Anurag M, Ellis MJ, Gao F, Gillanders W, Griffith OL, Griffith M" title="Immunogenomic profiling and pathological response results from a clinical trial of docetaxel and carboplatin in triple-negative breast cancer" journal="Breast Cancer Research and Treatment. 2021 Aug" doi="10.1007/s10549-021-06307-3" pmid="34173924" %}
+{% include publication 
+authors="Oh LJ, Asher R, Veness M, Smee R, Goldstein D, Gopalakrishna Iyer N, Balasubramanian D, Low TH, Palme CE, Gupta R, Clark J" 
+title="Effect of age and gender in non-smokers with oral squamous cell carcinoma: Multi-institutional study" 
+journal="Oral Oncol. 2021 May" 
+doi="10.1016/j.oraloncology.2021.105210" 
+pmid="33618102" 
+%}
 
-{% include publication authors="Barnell EK, Kang Y, Barnell AR, Kruse KR, Fiske J, Pittz ZR, Khan AR, Huebner TA, Holmes FL, Griffith M, Griffith OL, Chauduri AA, Wurtzler EM" title="Multitarget Stool RNA Test for Noninvasive Detection of Colorectal Neoplasias in a Multicenter, Prospective, and Retrospective Cohort" journal="Clinical Translational Gastroenterology. 2021 May 24" doi="10.14309/ctg.0000000000000360" pmid="34029233" %}
+{% include publication 
+authors="Rangabashyam M, Koh SQ, Sultana R, Tan NC, **Iyer NG**, Soo KC, Fenwick E, Lamoureux E, Tan HK" 
+title="Factors associated with returning to work in head and neck cancer survivors in Singapore: A preliminary exploratory mixed-methods approach study" 
+journal="Head Neck. 2021 May" 
+doi="10.1002/hed.26644" 
+pmid="33599355" 
+%}
 
-{% include publication authors="Cheng X, Joseph A, Castro V, Chen-Liaw A, Skidmore ZL, Ueno T, Fujisawa J, Rauch DA, Challen GA, Martinez MP, Green P, Griffith M, Payton JE, Edwards JR, Ratner L" title="Epigenomic regulation of human T-cell leukemia virus by chromatin-insulator CTCF" journal="PLoS Pathogens. 2021 May 21" doi="10.1371/journal.ppat.1009577" pmid="34019588" %}
+{% include publication 
+authors="Neo WL, Ng JCF, **Iyer NG**" 
+title="The great pretender-Bell's palsy secondary to SARS-CoV-2?" 
+journal="Clin Case Rep. 2021 Mar" 
+doi="10.1002/ccr3.3716" 
+pmid="33768805" 
+%}
 
-{% include publication authors="Mudianto T, Campbell KM, Webb J, Zolkind, Skidmore ZL, Riley R, Barnell EK, Oxgenc I, Giri T, Dunn GP, Adkins DR, Griffith M, Egloff AN, Griffith OL, Uppaluri R" title="Yap1 Mediates Trametinib Resistance in Head and Neck Squamous Cell Carcinomas" journal="Clinical Cancer Research. 2021 Apr 15" doi="10.1158/1078-0432.CCR-19-4179" pmid="33547198" %}
+{% include publication 
+authors="Oh LJ, Satgunaseelan L, Asher R, Veness M, Smee R, Goldstein D, Gopalakrishna Iyer N, Balasubramanian D, Low H, Palme CE, Gupta R, Clark JR" 
+title="Young age is not a predictor of disease specific survival in oral cancer: A multi-institutional study" 
+journal="Oral Oncol. 2021 Apr" 
+doi="10.1016/j.oraloncology.2020.105162" 
+pmid="33548861" 
+%}
 
-{% include publication authors="Gomez F,  Griffith M, Griffith OL" title="Genetic Ancestry Correlations with Driver Mutations Suggest Complex Interactions between Somatic and Germline Variation in Cancer" journal="Cancer Discovery. 2021 Mar 11" doi="10.1158/2159-8290.CD-21-0092" pmid="33653917" %}
+{% include publication 
+authors="Low JL, Lau DP, Zhang X, Kwang XL, Rohatgi N, Chan JV, Chong FT, Wong SQR, Leong HS, Thangavelu MT, Rikka S, Skanderup AMJ, Tan DSW, Periyasamy G, Koh JLY, **Iyer NG**, DasGupta R" 
+title="A chemical genetic screen identifies Aurora kinases as a therapeutic target in EGFR T790M negative, gefitinib-resistant head and neck squamous cell carcinoma (HNSCC)" 
+journal="EBioMedicine. 2021 Feb" 
+doi="10.1016/j.ebiom.2021.103220" 
+pmid="33529999" 
+%}
 
-{% include publication authors="Chu S, Skidmore ZL, Kunisaki J, Walker JR, Griffith M, Griffith OL, Bryan JN" title="Unraveling the chaotic genomic landscape of primary and metastatic canine appendicular osteosarcoma with current sequencing technologies and bioinformatic approaches" journal="PLoS One. 2021 Feb 8" doi="10.1371/journal.pone.0246443" pmid="33556121" %}
+{% include publication 
+authors="Seet AOL, Tan AC, Tan TJ, Ng MCH, Tai DWM, Lam JYC, Tan GS, Gogna A, Too CW, Tan BS, Takano A, Lim A, Lim TH, Lim ST, Dent RA, Ang MK, Yap YS, Tan IBH, Choo SP, Toh CK, Lim EH, Farid M, Skanderup AJ, **Iyer NG**, Lim WT, Tan EH, Lim TKH, Tan DSW" 
+title="Individualized Molecular Profiling for Allocation to Clinical Trials Singapore Study-An Asian Tertiary Cancer Center Experience" 
+journal="JCO Precis Oncol. 2021" 
+doi="10.1200/PO.20.00261" 
+pmid="34250396" 
+%}
 
-{% include publication authors="Barnell EK, Newcomer NF, Skidmore ZL, Krysiak K, Anderson SR, Wartman LD, Oh ST, Welch JS, Stockerl-Goldstein KE, Vij R, Cashen AF, Pusic I, Westervelt P, Abboud CN, Ghobadi A, Uy GL, Schroeder MA, Dipersio JF, Politi MC, Spencer DH, Duncavage EJ, Ley TJ, Griffith M, Jacoby MA, Griffith OL" title="Impact of a 40-Gene Targeted Panel Test on Physician Decision Making for Patients With Acute Myeloid Leukemia" journal="JCO Precision Oncology. 2021 Jan 14" doi="10.1200/PO.20.00182" pmid="34036230" %}
+{% include publication 
+authors="Bottino LZMF, Rodrigues-Junior DM, Farias IS, Branco LM, **Iyer NG**, de Albuquerque GE, Vettore AL, Bortoluci KR" 
+title="Extracellular vesicles derived from head and neck squamous cells carcinoma inhibit NLRP3 inflammasomes" 
+journal="Curr Res Immunol. 2021" 
+doi="10.1016/j.crimmu.2021.10.005" 
+pmid="35492395" 
+%}
 
-{% include publication authors="Freshour SL, Kiwala S*, Cotto KC*, Coffman AC, McMichael FJ, Song JJ, Griffith M+, Griffith OL+, Wagner AH+" title="Integration of the Drug–Gene Interaction Database (DGIdb 4.0) with open crowdsource efforts" journal="Nucleic Acids Research. 2021 Jan 8" doi="10.1093/nar/gkaa1084" pmid="33237278" %}
+{% include publication 
+authors="Wong RLY, Wong MRE, Kuick CH, Saffari SE, Wong MK, Tan SH, Merchant K, Chang KTE, Thangavelu M, Periyasamy G, Chen ZX, Iyer P, Tan EEK, Soh SY, **Iyer NG**, Fan Q, Loh AHP" 
+title="Integrated Genomic Profiling and Drug Screening of Patient-Derived Cultures Identifies Individualized Copy Number-Dependent Susceptibilities Involving PI3K Pathway and 17q Genes in Neuroblastoma" 
+journal="Front Oncol. 2021" 
+doi="10.3389/fonc.2021.709525" 
+pmid="34722256" 
+%}
 
 <h2 data-magellan-destination="2020">2020</h2>
 <a name="2020"></a>
