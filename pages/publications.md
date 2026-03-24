@@ -29,14 +29,30 @@ header:
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
 
-{% include publication authors="Rauch DA, Ramos PV, Khanfar M, Harding J, Joseph A, Fahad A, Simonson P, Risch I, Griffith O, Griffith M, Ratner L" title="Single-Cell Transcriptomic Analysis of Kaposi Sarcoma" journal="PLoS Pathogens" doi="10.1371/journal.ppat.1012233" pmid="40168402"%}
+{% include publication authors="K Fernando, HS Quah, L Suteja, A James, FF Kuthubudeen, KZ Wu, C Adine, H Bhuvaneswari, S
+Selvarajan, **NG Iyer**, ELS Fong" title="Extended human lymph node explants for evaluation of adaptive
+immunity" journal="Trends Biotechnol" doi="10.1016/j.tibtech.2025.07.020" pmid="40885665"%}
 
-{% include publication authors="Chen H, Ferguson CJ, Mitchell DC, Risch I, Titus A, Paulo JA, Hwang A, Beck LK, Lin TH, Gu W, Song SK, Yuede CM, Yano H, Griffith OL, Griffith M, Gygi SP, Bonni A, Kim AH" title="The Hao-Fountain syndrome protein USP7 regulates neuronal connectivity in the brain via a novel p53-independent ubiquitin signaling pathway" journal="Cell Reports" doi="10.1016/j.celrep.2025.115231" pmid="39862434"%}
+{% include publication authors="G Raj, M Raj, HHM Ng, J Suh, NB Shannon, RH Nagadia, **NG Iyer**, AR Dharmawan" title="Outcomes of an Enhanced Recovery After Surgery (ERAS) protocol following head and neck surgery with free flap reconstruction" journal="Int J Oral Maxillofac Surg" doi="10.1016/j.ijom.2025.08.005" pmid="40850850"%}
+
+{% include publication authors="Y Wang, Z Zhao, NCW Ho, **NG Iyer**, ELS Fong" title="Interplay between matrix viscoelasticity and integrin engagement modulates cancer-associated fibroblast plasticity" journal="Adv Healthc Mater" doi="10.1016/j.ijom.2025.08.005" pmid="40726283"%}
+
+{% include publication authors="Sun Y, Wang H, Li L, Wang J, Chen W, Peng L, Hu P, Yu J, Cai X, Yao N, Zhou Y, Wang J, Wang Y, Qian L, Ge W, Chen M, Yang F, Gui Z, Sun W, Wang Z, Ge M, He Y, Wang G, Zhao Y, Chen H, Wu X, Du Y, Wei W, Wu F, Luo D, Lin X, Zheng H, Zhu X, Wei B, Shen J, Yao J, Yuan Z, Liu T, Pan J, Zhang Y, Lv Y, Guo Q, Wu Q, Gong T, Chen T, Zheng S, Zhu J, Liu H, Chen C, Han H, Selvarajan S, Xing MM, Kakudo K, Alexander EK, Wu Y, Wang Y, Xu D, Zhang H, Nie X, Kon OL, **Iyer NG**, Liu Z, Zhu Y, Guan H, Guo T" title=" A protein-based classifier for differentiating follicular thyroid adenoma and carcinoma" journal="EMBO Mol Med" doi="10.1038/s44321-025-00242-2" pmid="40442320"%}
+
+{% include publication authors="Yeo ELL, Hong BH, Tay SH, Neo J, Ong EHW, Chow WM, Tan KM, Low KP, Sim AYL, Lu T, Zhang X, Huang L, Tan JSH, Wee JTS, Soong YL, Fong KW, Tan TWK, Sin SY, Sam XX, Hwang JSG, Lim TKH, Lee JJ, Loo LH, Soo KC, **Iyer NG**, Loh KS, Tay JK, Liu J, Ang MK, Yeong JPS, Bei JX, Tan SH, Lim DWT, Chua MLK" title="Tumor immune microenvironment delineates progression trajectories of distinct nasopharyngeal carcinoma phenotypes" journal="Cell Rep Med" doi="10.1016/j.xcrm.2025.102143" pmid="40412382"%}
+
+{% include publication authors="Wu KZ, Ding RH, Zhao Z, Chong CYL, You R, Zhou H, Seah DH, Leow WQ, Lim HK, Shyamasundar S, Fernando K, Kuthubudeen FF, Ng G, Tay CY, **Iyer NG**, Ong CJ, Fong ELS" title="Hydrogel-Mediated Preservation of Live Tumor Explants for Drug Development in Peritoneal Metastases" journal="Adv Mater" doi="10.1002/adma.202418647" pmid="40391640"%}
+
+{% include publication authors="Chia S, Wen Seow JJ, Peres da Silva R, Suphavilai C, Shirgaonkar N, Murata-Hori M, Zhang X, Yong EY, Pan J, Thangavelu MT, Periyasamy G, Yap A, Anand P, Muliaditan D, Chan YS, Siyu W, Yong CW, Hong N, Ran G, Sim NL, Guo YA, Yi Teh AX, Wei Ling CC, Wei Tan EK, Pei Cherylin FW, Chang M, Han S, Seow-En I, Chen Hui LR, Hsia Gan AH, Yap CK, Ng HH, Skanderup AJ, Chinswangwatanakul V, Riansuwan W, Trakarnsanga A, Pithukpakorn M, Tanjak P, Chaiboonchoe A, Park D, Kim DK, **Iyer NG**, Tsantoulis P, Tejpar S, Kim JE, Kim TI, Sampattavanich S, Tan IB, Nagarajan N, DasGupta R" title="CAN-Scan: A multi-omic phenotype-driven precision oncology platform identifies prognostic biomarkers of therapy response for colorectal cancer" journal="Cell Rep Med" doi="10.1016/j.xcrm.2025.102053" pmid="40187357"%}
+
+{% include publication authors="Chen Y, Davidson NM, Wan YK, Yao F, Su Y, Gamaarachchi H, Sim A, Patel H, Low HM, Hendra C, Wratten L, Hakkaart C, Sawyer C, Iakovleva V, Lee PL, Xin L, Ng HEV, Loo JM, Ong X, Ng HQA, Wang J, Koh WQC, Poon SYP, Stanojevic D, Tran HD, Lim KHE, Toh SY, Ewels PA, Ng HH, **Iyer NG**, Thiery A, Chng WJ, Chen L, DasGupta R, Sikic M, Chan YS, Tan BOP, Wan Y, Tam WL, Yu Q, Khor CC, Wüstefeld T, Lezhava A, Pratanwanich PN, Love MI, Goh WSS, Ng SB, Oshlack A, Göke J" title="A systematic benchmark of Nanopore long-read RNA sequencing for transcript-level analysis in human cell lines" journal="Adv Mater" doi="10.1038/s41592-025-02623-4" pmid="40082608"%}
+
+{% include publication authors="Lai YT, Peh HY, Binte Abdul Kadir H, Lee CF, **Iyer NG**, Wong TH, Tay GCAS" title=" Bioelectrical-Impedance-Analysis in the Perioperative Nutritional Assessment and Prediction of Complications in Head-and-Neck Malignancies" journal="OTO Open" doi="10.1002/oto2.70046" pmid="39759946"%}
 
 <h2 data-magellan-destination="2024">2024</h2>
 <a name="2024"></a>
 
-{% include publication authors="Zhang X, Goedegebuure SP, Chen MY, Mishra R, Zhang F, Yu YY, Singhal K, Li L, Gao F, Myers NB, Vickery T, Hundal J, McLellan MD, Sturmoski MA, Kim SW, Chen I, Davidson JT 4th, Sankpal NV, Myles S, Suresh R, Ma CX, Foluso A, Wang-Gillam A, Davies S, Hagemann IS, Mardis ER, Griffith O, Griffith M, Miller CA, Hansen TH, Fleming TP, Schreiber RD, Gillanders WE" title="Neoantigen DNA vaccines are safe, feasible, and induce neoantigen-specific immune responses in triple-negative breast cancer patients" journal="Genome Medicine" doi="10.1186/s13073-024-01388-3" pmid="39538331"%}
+{% include publication authors="Widjaja W, Ng I, Shannon N, **Iyer NG**" title=" Neoadjuvant Immunotherapy in Resectable HNSCC: An Updated Systematic Review and Meta-analysis" journal="Ann Surg Oncol" doi="10.1245/s10434-024-16587-w" pmid="39645552"%}
 
 {% include publication authors="Xia H, Hoang MH, Schmidt E, Kiwala S, McMichael J, Skidmore ZL, Fisk B, Song JJ, Hundal J, Mooney T, Walker JR, Goedegebuure SP, Miller CA, Gillanders WE, Griffith OL, Griffith M" title="pVACview: an interactive visualization tool for efficient neoantigen prioritization and selection" journal="Genome Medicine" doi="10.1186/s13073-024-01384-7" pmid="39538339"%}
 
