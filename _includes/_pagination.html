@@ -8,14 +8,14 @@
 
 {% for post in paginator.posts %}
   <div class="row">
-    <div class="small-12 columns b30">
+    <div class="small-12 columns b15">
 
       <p class="news-item">
         <span class="news-date">
           {{ post.date | date: "%b %Y" }}
         </span>
 
-        &nbsp;&nbsp;—&nbsp;&nbsp;
+        &nbsp;—&nbsp;
 
         <a href="{{ post.redirect_to | default: post.url }}">
           {{ post.title }}
@@ -28,34 +28,28 @@
 
 <nav id="pagination">
 
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <a rel="prev" class="radius button small"
-           href="{{ site.url }}{{ site.baseurl }}/news/"
-           title="{{ site.data.language.previous_posts }}">
-           &laquo; {{ site.data.language.previous_posts }}
-        </a>
-      {% else %}
-        <a rel="prev" class="radius button small"
-           href="{{ site.url }}{{ site.baseurl }}/news/page{{ paginator.previous_page }}/"
-           title="{{ site.data.language.previous_posts }}">
-           &laquo; {{ site.data.language.previous }}
-        </a>
-      {% endif %}
-    {% endif %}
-
-    <a class="radius button small"
-       href="{{ site.url }}{{ site.baseurl }}/news/archive/"
-       title="{{ site.data.language.blog_archive }}">
-       {{ site.data.language.blog_archive }}
-    </a>
-
-    {% if paginator.next_page %}
-      <a rel="next" class="radius button small"
-         href="{{ site.url }}{{ site.baseurl }}/news/page{{ paginator.next_page }}/"
-         title="{{ site.data.language.next_posts }}">
-         {{ site.data.language.next }} &raquo;
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a rel="prev" class="radius button small"
+         href="{{ site.url }}{{ site.baseurl }}/news/"
+         title="Newer posts">
+         &laquo; Newer
+      </a>
+    {% else %}
+      <a rel="prev" class="radius button small"
+         href="{{ site.url }}{{ site.baseurl }}/news/page{{ paginator.previous_page }}/"
+         title="Newer posts">
+         &laquo; Newer
       </a>
     {% endif %}
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a rel="next" class="radius button small"
+       href="{{ site.url }}{{ site.baseurl }}/news/page{{ paginator.next_page }}/"
+       title="Older posts">
+       Older &raquo;
+    </a>
+  {% endif %}
 
 </nav>
