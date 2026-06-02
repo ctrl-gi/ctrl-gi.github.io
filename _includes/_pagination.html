@@ -8,9 +8,10 @@
 
 {% for post in paginator.posts %}
   <div class="row">
-    <div class="small-12 columns b15">
+    <div class="small-12 columns">
 
-      <p class="news-item">
+      <div class="news-item">
+
         <span class="news-date">
           {{ post.date | date: "%b %Y" }}
         </span>
@@ -20,7 +21,8 @@
         <a href="{{ post.redirect_to | default: post.url }}">
           {{ post.title }}
         </a>
-      </p>
+
+      </div>
 
     </div>
   </div>
