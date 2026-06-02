@@ -56,6 +56,13 @@
       class: fa-brands fa-linkedin-in
       title: "Professional LinkedIn account"
 
+- member_name: jingwen
+  social:
+    - name: linkedin
+      url: https://www.linkedin.com/in/jingwen-yu-1824b9364/
+      class: fa-brands fa-linkedin-in
+      title: "Professional LinkedIn account"
+
 - member_name: Alex
   social:
     - name: GitHub
