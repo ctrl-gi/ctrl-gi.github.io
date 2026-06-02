@@ -395,3 +395,15 @@ body.video cite { color: #fff; }
 .news-item a:hover {
   text-decoration: underline;
 }
+
+.simple-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.simple-list li {
+  padding: 4px 0;
+  font-size: 15px;
+  border-bottom: 1px solid #eee;
+}
