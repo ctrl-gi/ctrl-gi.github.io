@@ -8,25 +8,22 @@
 
 {% for post in paginator.posts %}
   <div class="row">
-    <div class="small-12 columns b60">
+    <div class="small-12 columns b30">
 
-      <!-- DATE / CATEGORY LINE (clean + minimal) -->
-      <p class="subheadline">
-        {{ post.date | date: "%b %Y" }}
-        {% if post.categories != empty %}
-          · {{ post.categories | join: " · " }}
-        {% endif %}
-      </p>
+      <p class="news-item">
+        <span class="news-date">
+          {{ post.date | date: "%b %Y" }}
+        </span>
 
-      <!-- TITLE ONLY (CLICKABLE) -->
-      <h2>
+        &nbsp;&nbsp;—&nbsp;&nbsp;
+
         <a href="{{ post.redirect_to | default: post.url }}">
           {{ post.title }}
         </a>
-      </h2>
+      </p>
 
-    </div><!-- /.small-12.columns -->
-  </div><!-- /.row -->
+    </div>
+  </div>
 {% endfor %}
 
 <nav id="pagination">
