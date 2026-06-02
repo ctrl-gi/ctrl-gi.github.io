@@ -134,6 +134,14 @@ She is currently pursuing a PhD at Karolinska Institutet, Sweden, investigating 
     role="PhD Student" 
 %}
 
+{% include team_member 
+    member_name="jingwen" 
+    full_name="Jingwen Yu" 
+    bio="I completed my Master’s training at SUSTech University with Yonggang Pei, exploring the virus-driven genomic instability in lymphomagenesis. I next traveled further south for extra sunshine and crispy in Singapore, where I’m looking closer at lymph node biology and modeling virus infection ex vivo. Fun fact: If AI takes over science, I’ll try career as a chef!" 
+    image="/assets/img/team/Jingwen.jpeg" 
+    role="PhD Student" 
+%}
+
 ---
 <h2 data-magellan-destination="Interns">Interns</h2>
 <a name="Interns"></a>
