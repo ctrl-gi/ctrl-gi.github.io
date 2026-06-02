@@ -18,6 +18,10 @@
   url: "/resources/"
   side: left
 
+- title: Gallery
+  url: "/gallery/"
+  side: left
+
 - title: News
   url: "/news/"
   side: left
