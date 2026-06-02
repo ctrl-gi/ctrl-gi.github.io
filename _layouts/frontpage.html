@@ -62,7 +62,7 @@ format: frontpage
 
 
 <!-- =========================
-     LATEST NEWS (NEW CLEAN VERSION)
+     LATEST NEWS (HOME - 2 ITEMS ONLY)
 ========================= -->
 
 <div class="row t40 homepage">
@@ -70,7 +70,7 @@ format: frontpage
 
         <h2>Latest News</h2>
 
-        {% for post in site.posts limit:5 %}
+        {% for post in site.posts limit:2 %}
 
             <div class="news-item">
 
@@ -87,6 +87,14 @@ format: frontpage
             </div>
 
         {% endfor %}
+
+        <!-- MORE BUTTON -->
+        <div style="margin-top:10px;">
+            <a class="button small radius"
+               href="{{ site.baseurl }}/news/">
+               More News →
+            </a>
+        </div>
 
     </div>
 </div>
