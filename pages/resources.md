@@ -9,4 +9,4 @@ header:
 ## Bioinformatics Resources
 
 ### Intro to Bioinformatics
-https://github.com/yourrepo-link](https://ctrl-gi.github.io/r-for-bioinformatics/
+[https://ctrl-gi.github.io/r-for-bioinformatics/](https://ctrl-gi.github.io/r-for-bioinformatics/)
