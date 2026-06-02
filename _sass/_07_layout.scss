@@ -361,3 +361,37 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+
+
+.news-item {
+  display: block;
+  padding: 10px 12px;
+  margin: 6px 0;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  background: #fff;
+  transition: all 0.2s ease;
+}
+
+.news-item:hover {
+  border-color: #dcdcdc;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+  transform: translateY(-1px);
+}
+
+.news-date {
+  color: #777;
+  font-size: 0.85em;
+  font-weight: 500;
+}
+
+.news-item a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #2a2a2a;
+}
+
+.news-item a:hover {
+  text-decoration: underline;
+}
