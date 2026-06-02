@@ -28,7 +28,7 @@ header:
 <h2 data-magellan-destination="Overview">Overview</h2>
 <a name="Overview"></a>
 
-The Cancer Therapeutics Research Laboratory is led by Prof Gopalakrishna Iyer (Head and Neck Surgeon, National Cancer Centre Singapore) and A/Prof Daniel Tan. The group is part of the National Cancer Centre Singapore (NCCS) research ecosystem and is focused on advancing translational cancer research with a strong emphasis on head and neck and thoracic malignancies.
+The Cancer Therapeutics Research Laboratory (GI) is led by Prof Gopalakrishna Iyer (Head and Neck Surgeon, National Cancer Centre Singapore). The group is part of the National Cancer Centre Singapore (NCCS) research ecosystem and is focused on advancing translational cancer research with a strong emphasis on head and neck and thoracic malignancies.
 
 The central mission of the lab is to improve patient outcomes by identifying novel therapeutic targets, prognostic biomarkers, and rational treatment strategies that can be translated directly into clinical practice. A key philosophy of the group is “bedside-to-bench and back to bedside” research, where clinical observations directly inform laboratory investigation and vice versa.
 
