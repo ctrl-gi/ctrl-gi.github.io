@@ -42,10 +42,10 @@ header:
 </div>
 
 ## Research Overview
-The CTRL-GI lab is a research group .....building still
+The Cancer Therapeutics Research Laboratory (CTRL-GI) is a translational cancer research group based at the National Cancer Centre Singapore. Led by Prof. N. Gopalakrishna Iyer, the laboratory brings together an interdisciplinary [team](/team/) of surgeons, oncologists, biologists, computational scientists, and bioinformaticians to address clinically important questions in cancer biology and therapeutic response.
 
-The CTRL-GI lab is an interdisciplinary [team](/team/) of biologists, bioinformaticians..
+Our [research] (/research/) focuses on understanding the molecular and cellular mechanisms that drive cancer progression, metastasis, treatment resistance, and immune evasion. By integrating patient-derived clinical specimens with experimental models and advanced multi-omic technologies, we seek to identify biomarkers and therapeutic vulnerabilities that can improve precision oncology.
 
-Our [research projects](/research/) cover a wide spectrum of head and neck cancer..spatial transcriptomics..
+The laboratory has a longstanding focus on head and neck squamous cell carcinoma, while extending its research to broader questions in solid tumours. Current projects leverage single-cell genomics, spatial transcriptomics and functional disease modelling to investigate tumour heterogeneity, the tumour microenvironment, and treatment response.
 
-We have [published many papers](/publications/) with major areas of focus ...
+Our [work](/publications/) spans the full translational spectrum—from patient samples and computational discovery to mechanistic studies and biomarker-guided clinical trials. Through close integration with clinical programmes at NCCS, we aim to translate biological insights into meaningful improvements in patient care.
