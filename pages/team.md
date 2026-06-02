@@ -135,27 +135,20 @@ She is currently pursuing a PhD at Karolinska Institutet, Sweden, investigating 
 %}
 
 ---
-{% comment %}
 <h2 data-magellan-destination="Interns">Interns</h2>
 <a name="Interns"></a>
 
-{% include team_member member_name="Intern1" full_name="Intern Name" bio="..." image="/assets/img/team/intern1.jpg" role="Intern" %}
+<ul class="simple-list">
+  <li>Christine</li>
+  <li>Nancy</li>
+</ul>
 
 ---
 
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
 
-{% include team_member member_name="Alumni1" full_name="Alumni Name" bio="..." image="/assets/img/team/alumni1.jpg" role="Alumni" %}
-
-<div class="row">
-  <div class="small-4 columns">
-      <h5>XX</h5>
-      <h5>XX</h5>
-      <h5>XX</h5>
-      <h5>XX</h5>
-      <h5>XX</h5>
-      <h5>XX</h5>
-  </div>
-</div>
-{% endcomment %}
+<ul class="simple-list">
+  <li>Connie</li>
+  <li>...</li>
+</ul>

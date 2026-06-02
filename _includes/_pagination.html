@@ -31,26 +31,16 @@
 <nav id="pagination">
 
   {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-      <a rel="prev" class="radius button small"
-         href="{{ site.url }}{{ site.baseurl }}/news/"
-         title="Newer posts">
-         &laquo; Newer
-      </a>
-    {% else %}
-      <a rel="prev" class="radius button small"
-         href="{{ site.url }}{{ site.baseurl }}/news/page{{ paginator.previous_page }}/"
-         title="Newer posts">
-         &laquo; Newer
-      </a>
-    {% endif %}
+    <a rel="prev" class="radius button small"
+       href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
+       &laquo; Previous
+    </a>
   {% endif %}
 
   {% if paginator.next_page %}
     <a rel="next" class="radius button small"
-       href="{{ site.url }}{{ site.baseurl }}/news/page{{ paginator.next_page }}/"
-       title="Older posts">
-       Older &raquo;
+       href="{{ paginator.next_page_path | prepend: site.baseurl }}">
+       Next &raquo;
     </a>
   {% endif %}
 
