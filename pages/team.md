@@ -66,6 +66,15 @@ She is currently pursuing a PhD at Karolinska Institutet, Sweden, investigating 
 %}
 
 {% include team_member 
+    member_name="weikiang" 
+    full_name="Lim Wei Kiang" 
+    bio="I am a researcher with training in T cell immunology, cellular biology and molecular biology. I recently completed my PhD under the supervison of Professor Gopal Iyer, during which I investigated the anti-tumor potential of umbilical cord blood-derived γδ T cells (UCB γδ T cells) in Head and Neck Squamous cell Carcinoma (HNSCC). My thesis examined reactivity of UCB GDT cells against HNSCC patient-derived cell lines, identified a mechanism underlying UCB γδ T cell-mediated killing, and explored strategies to enhance the tumor-targeting ability of these immune cells. This work deepens the understanding of γδ T cell biology, and also provides a foundation for current and future research on cell-based therapies. Looking ahead, I aim to build on my experience and contribute to the development of T cell products for solid tumors including HNSCC." 
+    image="/assets/img/team/WeiKiang.jpeg" 
+    role="Phd to Postdoc" 
+%}
+
+
+{% include team_member 
     member_name="weizien" 
     full_name="Gan Wei Zien" 
     bio="A passionate immunology researcher with 6 years of research experience specializing in T cell immunology and immunotherapy, across both basic and translational/ clinical research settings. My research focuses on the role of cytokine combinations in enhancing tumour infiltrating lymphocytes culture." 
