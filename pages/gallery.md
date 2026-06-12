@@ -39,6 +39,18 @@ A collection of lab activities, events, and collaborations.
   <a href="/assets/img/gallery/lab7.jpg" class="glightbox">
     <img src="/assets/img/gallery/lab7.jpg">
   </a>
+
+  <a href="/assets/img/gallery/lab8.jpeg" class="glightbox">
+    <img src="/assets/img/gallery/lab8.jpeg">
+  </a>
+
+  <a href="/assets/img/gallery/lab9.jpeg" class="glightbox">
+    <img src="/assets/img/gallery/lab9.jpeg">
+  </a>
+
+  <a href="/assets/img/gallery/lab10.jpeg" class="glightbox">
+    <img src="/assets/img/gallery/lab10.jpeg">
+  </a>
   
 
 </div>
